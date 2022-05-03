@@ -13,7 +13,7 @@ class MainItemState extends State<MainItem> {
 
   final title = const Padding(
       padding: EdgeInsets.only(top: 100, right: 100),
-      child: Text('Конфиденция',
+      child: Text('КККонфиденция',
           style: TextStyle(
               fontSize: 25,
               color: Color(0xFF93827a),

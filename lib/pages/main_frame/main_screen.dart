@@ -7,7 +7,7 @@ class MainScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor:  const Color(0xFFf5f1eb),
+      backgroundColor:  const Color(0xFFE7E3E0),
       body: MainItem(),
     );
   }

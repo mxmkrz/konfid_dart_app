@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91080007827",
+    "project_id": "konfidenciaapp",
+    "storage_bucket": "konfidenciaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91080007827:android:6e1d4aeabacfeaf6162d66",
+        "android_client_info": {
+          "package_name": "com.example.flutest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91080007827-3u5nj6ebq7c3domser9pqh2ki16u4af4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn7uE_sTK8g6xb1_bAgByomt6HFrguLGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91080007827-3u5nj6ebq7c3domser9pqh2ki16u4af4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
